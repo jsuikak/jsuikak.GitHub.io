@@ -1,0 +1,17 @@
+{
+  "name": "three_pro_new",
+  "version": "1.0.0",
+  "description": "",
+  "source": "index.html",
+  "scripts": {
+    "dev": "parcel",
+    "build": "parcel build"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lil-gui": "^0.18.0",
+    "parcel": "^2.8.3",
+    "three": "^0.149.0"
+  }
+}
